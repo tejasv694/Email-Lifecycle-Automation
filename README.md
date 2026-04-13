@@ -19,7 +19,7 @@ Runs every day at 9am. For each active contact in a Notion database it:
 
 ## Architecture
 
-![Email Lifecycle Architecture](./architecture.png)
+![Email Lifecycle Architecture](./Architecture.png)
 
 ---
 
@@ -114,7 +114,7 @@ The `_notion_page_id` field is carried through to the write-back node to identif
 
 The full workflow JSON is available on request.
 
-Open a [GitHub Issue](../../issues) titled **"Workflow Request"** or connect via [LinkedIn](https://linkedin.com/in/yourprofile).
+connect via [LinkedIn](https://www.linkedin.com/in/tejasv-makkar/).
 
 ---
 
